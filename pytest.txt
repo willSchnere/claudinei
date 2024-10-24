@@ -1,0 +1,8 @@
+pytest
+
+-pip install pytest
+
+-Crie um diretorio
+
+-O arquivo deve sempre começar com a palavra "test"
+
